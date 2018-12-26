@@ -1,0 +1,1 @@
+This project is focused on implementing the mechanics of Columns, along with a program that you can run in the Python shell with a very spartan user interface
